@@ -1,0 +1,16 @@
+setuptools
+numpy ==1.22.3
+pandas == 1.4.2
+dvc == 2.10.1
+mlflow == 1.25.1
+hydra-core == 1.1.2
+pdoc3 == 0.10.0
+fastapi == 0.75.2
+scikit-learn == 1.0.2
+xgboost == 1.6.0
+lightgbm == 3.3.2
+uvicorn == 0.17.6
+hyperopt == 0.2.7
+pandas-profiling == 3.1.0
+matplotlib
+seaborn

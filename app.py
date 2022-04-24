@@ -1,3 +1,4 @@
+
 """
 Build a tic tac toe game
 """
@@ -32,7 +33,7 @@ def tictactoe():
         print('Tie!')
 
 def print_board(board):
-    """
+    """ 
     Print the board
     """
     for row in board:

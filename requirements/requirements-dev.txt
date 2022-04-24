@@ -1,0 +1,11 @@
+pytest == 7.1.2
+coverage == 6.3.2
+covdefaults == 2.2.0
+pre-commit == 2.18.1
+tox == 3.25.0
+mypy == 0.942
+black == 22.3.0
+isort == 5.10.1
+flake8 == 4.0.1
+autopep8 == 1.6.0
+bandit == 1.7.4
